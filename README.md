@@ -116,7 +116,7 @@ Navigate to the Metamorphic/ folder and execute:
 
 All generated test cases have been saved in "Transformed Test Cases" dataset.
 
-NOTE: Refer to the following link (https://github.com/AUTOMATIC1111/stable-diffusion-webui) to install Stable Diffusion and use our LoRA model.
+NOTE: Please refer to the following link (https://github.com/AUTOMATIC1111/stable-diffusion-webui) to install Stable Diffusion first, and then use our LoRA model.
 
 [//]: # (## Citing This Work)
 
