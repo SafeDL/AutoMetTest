@@ -1,0 +1,63 @@
+mostly cloudy skies, morning, a moderate amount of traffic, a slight mist, a light drizzle or a few drops of rain, a moderate dust storm, multi-lane road, light precipitation deposits
+
+suburban road with residential and commercial area, a moderate amount of clouds, night, a thin fog, a steady flow of vehicles, a steady and noticeable rain, a moderate dust storm, moderate precipitation deposits
+
+small town with diverse buildings, mostly cloudy skies, morning, a thin fog, a steady flow of vehicles, small precipitation deposits, a consistent but gentle rain, a small dust storm
+
+Long highways with multiple entrances/exits, some clouds covering a small portion of the sky, morning, a thin fog, a consistent but gentle rain, a moderate dust storm, (moderate precipitation deposits, few vehicles on the road
+
+a moderate amount of cloud, morning, a moderate amount of traffic, a slight mist, small precipitation deposits, a light dust storm, multi-lane road, no rain at all
+
+suburban road with residential and commercial area, a moderate amount of clouds, night, a thin fog, a steady flow of vehicles, a steady and noticeable rain, a moderate dust storm, moderate precipitation deposits
+
+Long highways with multiple entrances/exits, some clouds covering a small portion of the sky, morning, a moderate amount of traffic, a slight mist, a steady and noticeable rain, a small dust storm, light precipitation deposits
+
+small town with diverse buildings, mostly cloudy skies, night, a thin fog, a steady flow of vehicles, small precipitation deposits, a light drizzle or a few drops of rain, a small dust storm
+
+small town with diverse buildings, mostly cloudy skies, morning, a thin fog, a moderate amount of traffic, a steady and noticeable rain, a small dust storm, no precipitation deposits
+
+urban road, mostly cloudy skies, a thin fog, a steady flow of vehicles, a light drizzle or a few drops of rain, a moderate dust storm, moderate precipitation deposits, noon
+
+urban area with raised highway, mostly cloudy skies, a moderate fog, morning, a moderate amount of traffic, a steady and noticeable rain, a moderate dust storm, light precipitation deposits
+
+rural area, a moderate fog, some clouds covering a small portion of the sky, a moderate amount of traffic, a steady and noticeable rain, a small dust storm, light precipitation deposits, noon
+
+rural area, mostly cloudy skies, night, a thin fog, a steady flow of vehicles, a light drizzle or a few drops of rain, a small dust storm, light precipitation deposits
+
+small town with diverse buildings, mostly cloudy skies, night, a thin fog, a steady flow of vehicles, a steady and noticeable rain, small precipitation deposits, a moderate dust storm
+
+urban area with raised highway, mostly cloudy skies, a moderate fog, morning, a steady and noticeable rain, a moderate dust storm, moderate precipitation deposits, few vehicles on the road
+
+rural area, mostly cloudy skies, night, very large precipitation deposit, a thin fog, a moderate amount of traffic, a consistent but gentle rain, a moderate dust storm
+
+small town with diverse buildings, a moderate amount of clouds, a moderate fog, very large precipitation deposit, sunrise, a steady and noticeable rain, clear sky, few vehicles on the road
+
+rural area, night, some clouds covering a small portion of the sky, a moderate amount of traffic, a slight mist, a steady and noticeable rain, clear sky, light precipitation deposits
+
+Long highways with multiple entrances/exits, some clouds covering a small portion of the sky, morning, a moderate amount of traffic, a slight mist, small precipitation deposits, a light drizzle or a few drops of rain, a light dust storm
+
+mostly cloudy skies, night, Long highways with multiple entrances/exits, a light drizzle or a few drops of rain, a moderate dust storm, no fog, few vehicles on the road, light precipitation deposits
+
+mostly cloudy skies, night, a thin fog, a moderate amount of traffic, a light drizzle or a few drops of rain, a light dust storm, multi-lane road, light precipitation deposits
+
+small town with diverse buildings, a moderate fog, some clouds covering a small portion of the sky, a moderate amount of traffic, a steady and noticeable rain, a moderate dust storm, moderate precipitation deposits, noon
+
+mostly cloudy skies, a moderate fog, morning, a moderate amount of traffic, a light dust storm, multi-lane road, no rain at all, light precipitation deposits
+
+a moderate amount of clouds, night, Long highways with multiple entrances/exits, a moderate amount of traffic, a slight mist, a consistent but gentle rain, a moderate dust storm, moderate precipitation deposits
+
+urban area with raised highway, mostly cloudy skies, a thin fog, a moderate amount of traffic, a big dust storm, a light drizzle or a few drops of rain, light precipitation deposits
+
+urban area with raised highway, mostly cloudy skies, a moderate fog, a steady flow of vehicles, a steady and noticeable rain, a small dust storm, light precipitation deposits, noon
+
+mostly cloudy skies, night, a moderate amount of traffic, a slight mist, a steady and noticeable rain, a moderate dust storm, multi-lane road, light precipitation deposits
+
+mostly cloudy skies, morning, a slight mist, a light drizzle or a few drops of rain, a moderate dust storm, moderate precipitation deposits, multi-lane road, few vehicles on the road
+
+urban area with raised highway, mostly cloudy skies, morning, a steady flow of vehicles, a slight mist, a steady and noticeable rain, a moderate dust storm, light precipitation deposits
+
+a moderate amount of clouds, night, Long highways with multiple entrances/exits, very large precipitation deposit, a thin fog, a moderate amount of traffic, a consistent but gentle rain, a moderate dust storm
+
+urban road, mostly cloudy skies, very large precipitation deposit, a thin fog, a light drizzle or a few drops of rain, a moderate dust storm, few vehicles on the road, noon
+
+small town with diverse buildings, mostly cloudy skies, morning, a thin fog, a consistent but gentle rain, a moderate dust storm, few vehicles on the road, light precipitation deposits
