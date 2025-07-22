@@ -147,8 +147,8 @@ def get_payload(target_dir, image_paths, mask_paths, prompt, clean_prompt):
 
 
 def call_image2image_api(payload):
-    url = "http://127.0.0.1:7860"
-    headers = {"Authorization": "Basic anptOmp6bTAzNDUxMQ=="}
+    url = "replace with yours"
+    headers = {"Authorization": "replace with yours"}
     response = requests.post(url=f'{url}/sdapi/v1/img2img', json=payload, headers=headers)
     r = response.json()
     return r
