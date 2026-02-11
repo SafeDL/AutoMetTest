@@ -1,0 +1,15 @@
+rural area,a moderate amount of clouds,a very dense fog,night,very large precipitation deposit,a moderate dust storm,no rain at all
+
+rural area, a very dense fog,sunrise,a moderate dust storm,No clouds,no rain at all,light precipitation deposits
+
+night,a few clouds scattered in the sky,a slight mist,small precipitation deposits,clear sky,multi-lane road,no rain at all
+
+suburban road with residential and commercial area,night,No clouds,clear sky,no rain at all,no fog,no precipitation deposits
+
+suburban road with residential and commercial area,some clouds covering a small portion of the sky,a thin fog,sunrise,a strong rain with large raindrops,moderate precipitation deposits,clear sky
+
+urban road,morning,No clouds,clear sky,no rain at all,no fog,no precipitation deposits
+
+suburban road with residential and commercial area,a few clouds scattered in the sky,very large precipitation deposit,a big dust storm,sunrise,no rain at all,no fog
+
+suburban road with residential and commercial area,mostly cloudy skies,night,very large precipitation deposit,torrential rain with heavy downpour,a slight mist,clear sky
